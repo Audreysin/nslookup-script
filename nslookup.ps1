@@ -1,6 +1,6 @@
 ﻿<# ****************************************************
 Purpose: Automates the process of nslook up on a list of 
-         IP addresses pr host names in a csv file
+         IP addresses or host names in a csv file
 Requires: The input is in csv format
 ******************************************************** #>
 
