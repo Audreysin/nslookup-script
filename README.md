@@ -1,1 +1,1 @@
-# nslookup-script-2
+# nslookup-script
