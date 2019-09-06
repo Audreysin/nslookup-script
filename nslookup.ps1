@@ -4,7 +4,7 @@ Purpose: Automates the process of nslook up on a list of
 Requires: The input is in csv format
 ******************************************************** #>
 
-$path = "C:\Users\aulam\Documents\vi report\vi info_v1_pingable_inventory-find correct IP address.csv"
+$path = "C:\Users\aulam\Documents\list of host names file.csv"
 
 
 write-host ("Importing file")
